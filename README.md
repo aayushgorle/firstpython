@@ -1,2 +1,2 @@
-# firstpython
-my first python code, happy to able to write one :)
+# small python files
+some of my beginner python codes :)
